@@ -2,7 +2,7 @@
 💬 I am a high school student with a passion for computers.
 
 📫 Reach me at:
-Email: krish120003@gmail.com
+Email: krish120003@gmail.com\
 Discord: Krish12003#5393
 
 <!--

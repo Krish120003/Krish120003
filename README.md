@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi, I'm Krish
+💬 I am a high school student with a passion for computers.
+
+📫 Reach me at:
+Email: krish120003@gmail.com
+Discord: Krish12003#5393
 
 <!--
 **Krish120003/Krish120003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

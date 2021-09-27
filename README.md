@@ -2,4 +2,4 @@
 💬 I am a computer science student at McMaster University.
 
 📫 Reach me at:\
-Email: krish120003@gmail.com\
+Email: krish120003@gmail.com

@@ -8,6 +8,8 @@ Email: krish120003@gmail.com
 
 <img alt="Commit Metrics" src="/metrics.plugin.isocalendar.fullyear.svg" align="right" width="45%"/>
 
-<img alt="LeetCode Metrics" src="/metrics.plugin.leetcode.svg" align="left" width="45%"/>
+<br />
+
+<img alt="LeetCode Metrics" src="/metrics.plugin.leetcode.svg" align="left" width="30%"/>
 
 <img alt="GitHub Habits Metrics" src="/metrics.plugin.habits.charts.svg" align="right" width="45%"/>

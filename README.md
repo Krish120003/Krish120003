@@ -4,6 +4,6 @@
 📫 Reach me at:\
 Email: krish120003@gmail.com
 
-<img alt="GitHub Metrics" src="/github-metrics.svg" />
+<img alt="GitHub Metrics" src="/github-metrics.svg" align="left" width="50%"/>
 
-<img alt="Commit Metrics" src="/metrics.plugin.isocalendar.fullyear.svg" />
+<img alt="Commit Metrics" src="/metrics.plugin.isocalendar.fullyear.svg" align="right" width="50%"/>

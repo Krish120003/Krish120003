@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Hours of Training to Win a Competition</div>
-                            <div class="date">7 Dec 2022</div>
+                            <div class="title">Climbing Stairs</div>
+                            <div class="date">12 Dec 2022</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,7 +96,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Find Three Consecutive Integers That Sum to a Given Number</div>
+                            <div class="title">Minimum Hours of Training to Win a Competition</div>
                             <div class="date">7 Dec 2022</div>
                         </div>
                     </div>

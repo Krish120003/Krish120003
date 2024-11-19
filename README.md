@@ -1,23 +1,23 @@
 # hello!
 
 I like to run code that runs fast. 
-Currently, I'm engineering AI solutions at Bell Canada.
 
 I recently wrote a [JSON Parser in Rust](https://www.krish.gg/blog/json-parser-in-rust)!
 
 
 ## What I Do
+- Automate customer support training @ [Bell Canada](https://www.linkedin.com/feed/update/urn:li:activity:7185751055345876992/)
 - Hack on tools to run hackathons @ [DeltaHacks](https://deltahacks.com/)
-- Fun technical writeup blogs on [my blog](https://www.krish.gg/blog)
+- Write fun technical blogs on [my blog](https://www.krish.gg/blog)
 - Study and teach computer science at [McMaster University](https://www.mcmaster.ca/)
-- Compete in [Advent of Code](https://adventofcode.com/), check out [my solutions](https://github.com/Krish120003/AdventOfCode)
+- Solve puzzles and compete in [Advent of Code](https://adventofcode.com/), check out [my solutions](https://github.com/Krish120003/AdventOfCode)!
 
-Feel free to check out my projects or reach out!'
+Feel free to check out my projects or reach out!
 
-My Website: [www.krish.gg](https://www.krish.gg)  
-
-My Email: [krish120003@gmail.com](mailto:krish120003@gmail.com)  
-
+## Links
+Website: [www.krish.gg](https://www.krish.gg)  
+Email: [krish120003@gmail.com](mailto:krish120003@gmail.com)  
+LinkedIn: [linkedin.com/in/krish-krish](https://www.linkedin.com/in/krish-krish/)
 
 ## Cool Stats 
 <div>

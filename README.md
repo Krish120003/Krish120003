@@ -1,6 +1,6 @@
 # hello!
 
-I like to run code that runs fast. 
+I like to write code that runs fast. 
 
 I recently wrote a [JSON Parser in Rust](https://www.krish.gg/blog/json-parser-in-rust)!
 

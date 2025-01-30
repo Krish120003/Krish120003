@@ -19,8 +19,11 @@ Website: [www.krish.gg](https://www.krish.gg)
 Email: [krish120003@gmail.com](mailto:krish120003@gmail.com)  
 LinkedIn: [linkedin.com/in/krish-krish](https://www.linkedin.com/in/krish-krish/)
 
+<!---
 ## Cool Stats 
+
 <div>
 <img alt="GitHub Metrics" src="/github-metrics.svg" align="left" width="45%"/>
 <img alt="Commit Metrics" src="/metrics.plugin.isocalendar.fullyear.svg" align="right" width="45%"/>
 </div>
+--->

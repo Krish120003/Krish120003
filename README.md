@@ -6,13 +6,14 @@ I recently created a [globally scaleable clone of Vercel!](https://www.krish.gg/
 
 ## What I Do
 - Make train software safer @ [Hitachi Rail](https://www.linkedin.com/posts/krish-krish_the-first-month-of-2025-is-almost-over-and-activity-7291114954286407681-Pef0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_UuX4BCcNMiGn9uFLR6NmdboiuDJE0bGU)
-<!---
-- Automate customer support training @ [Bell Canada](https://www.linkedin.com/feed/update/urn:li:activity:7185751055345876992/)
--->
 - Hack on tools to run hackathons @ [DeltaHacks](https://deltahacks.com/)
 - Write fun technical blogs on [my blog](https://www.krish.gg/blog)
 - Study and teach computer science at [McMaster University](https://www.mcmaster.ca/)
 - Solve puzzles and compete in [Advent of Code](https://adventofcode.com/), check out [my solutions](https://github.com/Krish120003/AdventOfCode)!
+
+<!---
+- Automate customer support training @ [Bell Canada](https://www.linkedin.com/feed/update/urn:li:activity:7185751055345876992/)
+-->
 
 Feel free to check out my projects or reach out!
 
